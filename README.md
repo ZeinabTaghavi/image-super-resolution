@@ -11,14 +11,16 @@ this was result:
 (image was high resolution, we drop other parts)
 source image:
 
-<img src="https://github.com/ZeinabTaghavi/image-super-resolution/blob/master/data/input/sample/image1_not_denoised.png?raw=true" height="30%" width="30%">
+<img src="https://github.com/ZeinabTaghavi/image-super-resolution/blob/master/data/input/sample/image1_not_denoised.png?raw=true" height="40%" width="40%">
 
 denoised image:
 
-<img src="https://github.com/ZeinabTaghavi/image-super-resolution/blob/master/data/input/sample/image1.png?raw=true" width="30%" height="30%">
+<img src="https://github.com/ZeinabTaghavi/image-super-resolution/blob/master/data/input/sample/image1.png?raw=true" width="40%" height="40%">
 
 sliced a part for GAN:
-<img src="https://github.com/ZeinabTaghavi/image-super-resolution/blob/master/data/input/sample/part_of_image.png?raw=true" width="50%" height="50%">
+
+<img src="https://github.com/ZeinabTaghavi/image-super-resolution/blob/master/data/input/sample/part_of_image.png?raw=true" width="30%" height="30%">
 
 GAN resolution enhancement
-<img src="https://github.com/ZeinabTaghavi/image-super-resolution/blob/master/data/input/results/result_img1.png?raw=true" width="50%" height="50%">
+
+<img src="https://github.com/ZeinabTaghavi/image-super-resolution/blob/master/data/input/results/result_img1.png?raw=true" width="30%" height="30%">
